@@ -25,6 +25,10 @@ A web app for searching restaurants/businesses based on location. And can filter
 
 * React
 
+### Deployment
+
+* Surge.sh
+
 ### Other technologies
 
 * VSCode
@@ -37,4 +41,4 @@ Must request temporary access to the demo server before using the web app
 
 * [Go to this link](https://cors-anywhere.herokuapp.com/corsdemo)
 * Click button 'Request temporary access to the demo server'
-* Use the Ravenous web app
+* [Use the Ravenous web app](https://ravenous-by-amir.surge.sh)
